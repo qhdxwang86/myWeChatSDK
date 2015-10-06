@@ -1,0 +1,4 @@
+C:\Users\CharlieLau\Desktop\myWeiXinPlatform\myWeiXinPlatform.common\bin\Release\myWeiXinPlatform.common.dll
+C:\Users\CharlieLau\Desktop\myWeiXinPlatform\myWeiXinPlatform.common\bin\Release\myWeiXinPlatform.common.pdb
+C:\Users\CharlieLau\Desktop\myWeiXinPlatform\myWeiXinPlatform.common\obj\Release\myWeiXinPlatform.common.dll
+C:\Users\CharlieLau\Desktop\myWeiXinPlatform\myWeiXinPlatform.common\obj\Release\myWeiXinPlatform.common.pdb
